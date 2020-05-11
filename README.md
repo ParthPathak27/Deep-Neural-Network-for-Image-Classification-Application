@@ -2,4 +2,4 @@
 Build and applied a deep neural network to supervised learning.
 
 ### Output:
-[output](output.png)
+![output](output.png)
